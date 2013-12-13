@@ -1,0 +1,24 @@
+{
+  "name": "irc-lib",
+  "description": "A full-featured IRC library for running clients, bots, and servers",
+  "author": {
+    "name": "Sam Thompson",
+    "email": "samdtho@gmail.com"
+  },
+  "keywords": [
+    "irc",
+    "ircd",
+	"lib",
+    "bot",
+    "ircbot",
+    "client",
+    "server"
+  ],
+  "bugs": "https://github.com/samt/irc-lib/issues",
+  "version": "0.0.1",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samt/irc-lib.git"
+  }
+}
